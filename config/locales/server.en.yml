@@ -194,8 +194,6 @@ en:
         not_found: |-
           See how you get a notification when I mention you as @%{username}? You can get my attention with `@%{discobot_username}`. Can you try again?
 
-          (And yes, my user name is spelled _disco_, as in the 1970s dance craze. I do [love the nightlife!](https://www.youtube.com/watch?v=B_wGI3_sGf8) :dancer:)
-
       flag:
         instructions: |-
           We like our discussions friendly, and we need your help to [keep things civilized](%{guidelines_url}). If you see a problem, please flag to privately let the author, or [our helpful staff](%{about_url}), know about it.
